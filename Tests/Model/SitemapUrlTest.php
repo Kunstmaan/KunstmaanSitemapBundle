@@ -1,6 +1,6 @@
 <?php
 
-namespace Kunstmaan\SitemapBundle\Tests\unit\Model;
+namespace Kunstmaan\SitemapBundle\Tests\Model;
 
 use Kunstmaan\SitemapBundle\Model\SitemapUrl;
 use PHPUnit\Framework\TestCase;
