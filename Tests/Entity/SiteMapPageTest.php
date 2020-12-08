@@ -1,13 +1,10 @@
 <?php
 
-namespace Kunstmaan\SiteMapBundle\Tests\Entity;
+namespace Kunstmaan\SitemapBundle\Tests\Entity;
 
 use Kunstmaan\SitemapBundle\Entity\SitemapPage;
 use PHPUnit\Framework\TestCase;
 
-/**
- * Class RobotsTest
- */
 class SiteMapPageTest extends TestCase
 {
     public function testGetters()
